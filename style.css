@@ -1,0 +1,33 @@
+body{
+background-color: aqua;
+}
+
+#score{
+    font-size: 40px;
+    float: left;
+    margin-left: 100px;
+   
+}
+
+#time{
+    font-size: 40px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketchDrawn{
+    color: red;
+    font-size: 25;
+}
+#show_sketch{
+    margin-right: 100px;
+    float: right;
+}
+#mySketch{
+font-size: 20;
+font-weight: bold;
+}
+#myDraw{
+font-size: 20;
+font-weight: bold;
+}
